@@ -1,4 +1,4 @@
-## html javcrip y css
+## html
 
 ### sintesis
 ***HTML es la base de cualquier página web. Se encarga de la estructura, mientras que CSS da estilo (colores, diseño) y JavaScript añade interactividad.1991: Tim Berners-Lee crea HTML para compartir documentos en internet.
