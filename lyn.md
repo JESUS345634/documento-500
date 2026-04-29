@@ -9,6 +9,7 @@
 ## reflexion
 ***HTML es la base de todo lo que vemos en la web. Aunque a primera vista parece simple, es fundamental porque define la estructura de cada página: sin HTML, no existirían los sitios web tal como los conocemos. Aprender HTML no solo es entender etiquetas, sino comprender cómo organizar la información para que sea clara y accesible para todos.***
  #### conclusion
- ***HTML es la base de cualquier página web, ya que permite estructurar el contenido de forma ordenada y comprensible. Aunque es un lenguaje sencillo, su correcta utilización es clave para crear sitios web funcionales***
+ ***En conclusión, HTML no solo es una herramienta técnica, sino también un pilar esencial en la comunicación digital, cuyo desarrollo continúa adaptándose a las nuevas tecnologías y necesidades del mundo actual***
+
 
 
