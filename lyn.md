@@ -1,6 +1,14 @@
 ## html javcrip y css
 
 ### sintesis
-***javscrip conocido como lenguaje de programacion fue creado para crear paginas web mas interactivas y  una interfaz dinamicas sin necesidad de comunicaser con un servidor su creacion se remonta a los años 90 cuando por brendan eich y microssystem hicieron una alianza
-para un crear un lenguaje de programacion se pensaba que el progama se ejecuctaria en diferente versiones de navegadores como nestcape 2.0 y la version 3.0 mejrorando asi la velocidad de conexion asi mejorando y estanrizando el lenguaje hasta llegar a javscrip1.1 existen varios fundamentos de de programacion para usarlo desde variables condicionales swtich operadores buncles clases eventos funciones objetos y eventos un ejemplo podria ser los operadores logicos permitiendo que el codigo se mas facil de entender y darle mantenimiento.***
-***el css***
+***HTML es la base de cualquier página web. Se encarga de la estructura, mientras que CSS da estilo (colores, diseño) y JavaScript añade interactividad.1991: Tim Berners-Lee crea HTML para compartir documentos en internet.
+1995-1999: Se desarrollan versiones como HTML 2.0, 3.2 y 4.0, añadiendo más etiquetas.
+2000: Aparece XHTML (una versión más estricta).
+2014: Se lanza HTML5, la versión actual más importante, con soporte para video, audio y gráficos sin plugins es el lenguaje básico que se usa para crear páginas web. No es un lenguaje de programación como tal, sino un lenguaje de marcado, que sirve para estructurar el contenido: textos, imágenes, enlaces, tablas, etc***
+
+## reflexion
+***HTML es la base de todo lo que vemos en la web. Aunque a primera vista parece simple, es fundamental porque define la estructura de cada página: sin HTML, no existirían los sitios web tal como los conocemos. Aprender HTML no solo es entender etiquetas, sino comprender cómo organizar la información para que sea clara y accesible para todos.***
+ #### conclusion
+ ***HTML es la base de cualquier página web, ya que permite estructurar el contenido de forma ordenada y comprensible. Aunque es un lenguaje sencillo, su correcta utilización es clave para crear sitios web funcionales***
+
+
